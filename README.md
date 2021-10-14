@@ -1,1 +1,1 @@
-CourseraCPlusPlus
+Coursera: Основы разработки на C++

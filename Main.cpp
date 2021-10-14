@@ -5,11 +5,11 @@ using namespace std;
 
 int main() {
 	setlocale(LC_ALL, "ru");
-	cout << "Привет мир!" << endl; // commentary
-	int n = 5;
-	int sum = 0;
-	//for (int i = 1; i <= n; ++i)
-	//cout << sum;
+	int a = 0, b = 0, sum = 0;
+
+
+	sum = a + b;
+	cout << sum << endl;
 
 
 
